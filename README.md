@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Valéria Barbosa, estudante de Análise e Desenvolvimento de Sistemas. 👩‍💻
 - 👀 Tenho interesse em Java, C# e desenvolvimento backend. 
 - 📫 Você pode me encontrar em:
-  - :link: [linkedin.com/in/valéria-barbosa-b67499106](linkedin.com/in/valéria-barbosa-b67499106).
+  - :link: [linkedin.com/in/valéria-barbosa-b67499106](https://linkedin.com/in/valéria-barbosa-b67499106).
   - :email: valeriabarbosa67@gmail.com
 <!---
 ValeriaBarbosa03/ValeriaBarbosa03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
