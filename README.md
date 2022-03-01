@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Valéria Barbosa, estudante de Análise e Desenvolvimento de Sistemas.
-- 👀 Tenho interesse em Java  <i class="fa-brands fa-java"></i> , C# e desenvolvimento backend. <i class="fa-solid fa-code"></i>
+- 👀 Tenho interesse em Java, C# e desenvolvimento backend. 
 - 📫 Você pode me encontrar em:
-  - :link: linkedin.com/in/valéria-barbosa-b67499106
+  - :link: [linkedin.com/in/valéria-barbosa-b67499106](linkedin.com/in/valéria-barbosa-b67499106).
   - :email: valeriabarbosa67@gmail.com
     
 <!---
